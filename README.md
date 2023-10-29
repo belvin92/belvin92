@@ -54,4 +54,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Projects like Azure Active Honeypot - Joshua
+SIEM macos remember from Network Chuck
+Pihole VPN wireguard from linode techhut
+More more projects to come
+build your own cloud for storage nextcloud owncloud
+building a memegenerater (learning about API and coding with flask python)
+mine cyrpto on RPI4 - networkchuck -  Mysterium's Cryptocurrency MYST token
+docker stuff just dont know what to document
+
+
 -->
