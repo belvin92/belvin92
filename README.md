@@ -63,6 +63,8 @@ build your own cloud for storage nextcloud owncloud
 building a memegenerater (learning about API and coding with flask python)
 mine cyrpto on RPI4 - networkchuck -  Mysterium's Cryptocurrency MYST token
 docker stuff just dont know what to document
-
+Dark web hosting a website
+creating live chat using onionshare
+download receive share files
 
 -->
