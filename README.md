@@ -67,4 +67,8 @@ Dark web hosting a website
 creating live chat using onionshare
 download receive share files
 
+
+Figure out low code no code tech to fuck around with
+I use mainly mulesoft, Boomi is also another common one. On my current project I'm learning kafka and terraform
+[Neota](https://www.neotalogic.com/)https://www.neotalogic.com/
 -->
