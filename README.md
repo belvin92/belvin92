@@ -26,8 +26,11 @@
 
 <h2>🔍 Exploring Low-Code/No-Code and API Integrations:</h2>
 - Automated Workflow Magic.
+<br>
 - API Integration Symphony.
+<br>
 - DIY App Creation.
+<br>
 
 <h2> 🤳 Connect with me:</h2>
 
