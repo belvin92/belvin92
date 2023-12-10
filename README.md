@@ -1,7 +1,7 @@
 <h1>Hi, I'm Belvin! <br/><a href="https://github.com/belvin92">IT Wizard at Deloitte Australia</a>, <a href="https://www.linkedin.com/in/belvin/">Business Information Systems & Computer Engineering Graduate</a></h1>
 
 <h2>🚀 Quick Facts:</h2>
-- 👨‍💻 Weaving magic at Deloitte Australia.
+- 👨‍💻 Currently on a quest for my next tech adventure - Freelance Sorcerer in the realm of IT!
 - 🎓 Business Information Systems & Computer Engineering.
 - 🛠️ Tech savvy with a creative flair.
 
