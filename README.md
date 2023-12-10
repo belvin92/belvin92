@@ -1,39 +1,43 @@
-👋 Hey there! I'm Belvin Singh - your go-to IT Wizard 🧙‍♂️ in the digital realm.
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Belvin Singh's GitHub Page</title>
+    <style>
+        body { font-family: Arial, sans-serif; }
+        .header { color: #333366; }
+        .project-title { color: #336633; }
+        .connect { color: #663333; }
+    </style>
+</head>
+<body>
 
-🚀 Quick Facts:
+    <h1 class="header">👋 Hey there! I'm Belvin Singh</h1>
 
-👨‍💻 Currently weaving magic at Deloitte Australia.
-🎓 Educated in the mystical arts of Business Information Systems & Computer Engineering.
-🛠️ Specialty: Conjuring up solutions with a mix of tech savvy and creative flair.
-🌟 Why Follow Me?
+    <h2>🚀 Quick Facts:</h2>
+    <ul>
+        <li>👨‍💻 Currently weaving magic at Deloitte Australia.</li>
+        <li>🎓 Educated in Business Information Systems & Computer Engineering.</li>
+        <li>🛠️ Specialty: Tech savvy and creative solutions.</li>
+    </ul>
 
-Adventurer in Tech: From troubleshooting to cloud migrations, I've ventured through the tech jungle and emerged with a trove of skills.
-Organizational Ninja: My life's a well-oiled machine, thanks to my obsession with planning and organization.
-Communication Maestro: Breaking down tech jargon into human speak is my superpower!
-🔮 Tech Crystal Ball:
+    <h2>🌟 Why Follow Me?</h2>
+    <!-- Your content here... -->
 
-💻 Hardware wizardry, server spells, and Microsoft potions.
-🌐 Networking enchantments and cybersecurity shields.
-🌟 Regular updates from my home lab, where I experiment with the latest tech alchemy.
-🚀 Projects - Where Magic Happens:
+    <h2>🔮 Tech Crystal Ball:</h2>
+    <!-- Your content here... -->
 
-Azure Active Honeypot - Joshua: Creating a buzz in cybersecurity.
-SIEM MacOS - Remember from Network Chuck: Unleashing the detective within.
-Pi-hole VPN Wireguard from Linode TechHut: Building an unbreachable fortress for online privacy.
-Cloud Storage Alchemy - Nextcloud & Owncloud: Crafting your personal cloud.
-Meme Generator - Flask Python: Turning laughs into code.
-Crypto Mining on RPi4 - Mysterium's Cryptocurrency MYST Token: Small device, big earnings.
-Docker Experiments: Containerizing the future.
-Dark Web: Hosting a Website: Venturing into the unknown.
-Live Chat via OnionShare: Whispering through onions.
-🔍 Exploring Low-Code/No-Code and API Integrations:
+    <h2 class="project-title">🚀 Projects - Where Magic Happens:</h2>
+    <!-- Your projects list here... -->
 
-Automated Workflow Magic
-API Integration Symphony
-DIY App Creation
-🤝 Let's Connect:
+    <h3>🔍 Exploring Low-Code/No-Code and API Integrations:</h3>
+    <!-- Your sub-projects list here... -->
 
-LinkedIn: Belvin's Profile
-📧 Email: belvin92@hotmail.com
-🌐 Website: belvin.io
-✨ Drop by for a dose of tech inspiration or a hearty laugh. And hey, if you ever need a tech ally, you know where to find me!
+    <h2 class="connect">🤝 Let's Connect:</h2>
+    <p>
+        LinkedIn: <a href="https://linkedin.com/in/belvin/">Belvin's Profile</a><br>
+        Email: <a href="mailto:belvin92@hotmail.com">belvin92@hotmail.com</a><br>
+        Website: <a href="https://belvin.io">belvin.io</a>
+    </p>
+
+</body>
+</html>
