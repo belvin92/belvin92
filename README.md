@@ -1,74 +1,39 @@
-<h1>Hi, I'm Belvin! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+👋 Hey there! I'm Belvin Singh - your go-to IT Wizard 🧙‍♂️ in the digital realm.
 
-<h2>👨‍💻 Certifications:</h2>
-Oracle
-Cybersec
+🚀 Quick Facts:
 
-<h2>👨‍💻 Software Development Projects:</h2>
+👨‍💻 Currently weaving magic at Deloitte Australia.
+🎓 Educated in the mystical arts of Business Information Systems & Computer Engineering.
+🛠️ Specialty: Conjuring up solutions with a mix of tech savvy and creative flair.
+🌟 Why Follow Me?
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+Adventurer in Tech: From troubleshooting to cloud migrations, I've ventured through the tech jungle and emerged with a trove of skills.
+Organizational Ninja: My life's a well-oiled machine, thanks to my obsession with planning and organization.
+Communication Maestro: Breaking down tech jargon into human speak is my superpower!
+🔮 Tech Crystal Ball:
 
-<h2>📺 Popular YouTube Videos</h2>
+💻 Hardware wizardry, server spells, and Microsoft potions.
+🌐 Networking enchantments and cybersecurity shields.
+🌟 Regular updates from my home lab, where I experiment with the latest tech alchemy.
+🚀 Projects - Where Magic Happens:
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+Azure Active Honeypot - Joshua: Creating a buzz in cybersecurity.
+SIEM MacOS - Remember from Network Chuck: Unleashing the detective within.
+Pi-hole VPN Wireguard from Linode TechHut: Building an unbreachable fortress for online privacy.
+Cloud Storage Alchemy - Nextcloud & Owncloud: Crafting your personal cloud.
+Meme Generator - Flask Python: Turning laughs into code.
+Crypto Mining on RPi4 - Mysterium's Cryptocurrency MYST Token: Small device, big earnings.
+Docker Experiments: Containerizing the future.
+Dark Web: Hosting a Website: Venturing into the unknown.
+Live Chat via OnionShare: Whispering through onions.
+🔍 Exploring Low-Code/No-Code and API Integrations:
 
-<h2> 🤳 Connect with me:</h2>
+Automated Workflow Magic
+API Integration Symphony
+DIY App Creation
+🤝 Let's Connect:
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[linkedin]: https://linkedin.com/in/belvin/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-Projects like Azure Active Honeypot - Joshua
-SIEM macos remember from Network Chuck
-Pihole VPN wireguard from linode techhut
-More more projects to come
-build your own cloud for storage nextcloud owncloud
-building a memegenerater (learning about API and coding with flask python)
-mine cyrpto on RPI4 - networkchuck -  Mysterium's Cryptocurrency MYST token
-docker stuff just dont know what to document
-Dark web hosting a website
-creating live chat using onionshare
-download receive share files
-
-
-Figure out low code no code tech to fuck around with
-I use mainly mulesoft, Boomi is also another common one. On my current project I'm learning kafka and terraform
-[Neota](https://www.neotalogic.com/)https://www.neotalogic.com/
--->
+LinkedIn: Belvin's Profile
+📧 Email: belvin92@hotmail.com
+🌐 Website: belvin.io
+✨ Drop by for a dose of tech inspiration or a hearty laugh. And hey, if you ever need a tech ally, you know where to find me!
