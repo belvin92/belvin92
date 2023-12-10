@@ -1,12 +1,4 @@
-
-<body>
-    <title>Belvin Singh's GitHub Page</title>
-    <style>
-        body { font-family: Arial, sans-serif; }
-        .header { color: #333366; }
-        .project-title { color: #336633; }
-        .connect { color: #663333; }
-    </style>
+<h1>Hi, I'm Belvin! <br/><a href="https://github.com/belvin92">Tech Wizard</a>, <a href="https://www.linkedin.com/in/belvin/">Cloud Wrangler</a>, <a href="https://www.youtube.com/c/joshmadakor">Tech Enthusiast</a></h1>
 
 
     <h1 class="header">👋 Hey there! I'm Belvin Singh</h1>
