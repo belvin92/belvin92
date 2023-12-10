@@ -22,7 +22,16 @@
 - DIY App Creation.
 
 <h2> 🤳 Connect with me:</h2>
-<!-- Your connection links here -->
+
+[<img align="left" alt="Belvin | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Belvin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Belvin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[twitter]: https://twitter.com/belvynLFC
+[youtube]: https://www.youtube.com/@LiverpoolFC
+[linkedin]: https://linkedin.com/in/belvin/
+
 
 <!--
 **belvin92/belvin92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
