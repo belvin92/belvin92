@@ -1,33 +1,39 @@
-<h1>Hi, I'm Belvin! <br/><a href="https://github.com/belvin92">Tech Wizard</a>, <a href="https://www.linkedin.com/in/belvin/">Cloud Wrangler</a>, <a href="https://www.youtube.com/c/joshmadakor">Tech Enthusiast</a></h1>
+<h1>Hi, I'm Belvin! <br/><a href="https://github.com/belvin92">IT Wizard at Deloitte Australia</a>, <a href="https://www.linkedin.com/in/belvin/">Business Information Systems & Computer Engineering Graduate</a></h1>
 
+<h2>🚀 Quick Facts:</h2>
+- 👨‍💻 Weaving magic at Deloitte Australia.
+- 🎓 Business Information Systems & Computer Engineering.
+- 🛠️ Tech savvy with a creative flair.
 
-    <h1>👋 Hey there! I'm Belvin Singh</h1>
+<h2>👨‍💻 Projects:</h2>
+- <b>Azure Active Honeypot - Joshua:</b> Cybersecurity digital trap.
+- <b>SIEM MacOS - Network Chuck:</b> Unraveling MacOS mysteries.
+- <b>Pi-hole VPN Wireguard - Linode TechHut:</b> Online privacy fortress.
+- <b>Nextcloud & Owncloud:</b> Personal cloud storage solutions.
+- <b>Meme Generator - Flask Python:</b> Laughs turned into code.
+- <b>Crypto Mining on RPi4:</b> Earning MYST tokens.
+- <b>Docker Experiments:</b> Adventures in containerization.
+- <b>Dark Web Hosting:</b> Exploring the unknown.
+- <b>Live Chat via OnionShare:</b> Secure, anonymous communication.
 
-    <h2>🚀 Quick Facts:</h2>
-    <ul>
-        <li>👨‍💻 Currently weaving magic at Deloitte Australia.</li>
-        <li>🎓 Educated in Business Information Systems & Computer Engineering.</li>
-        <li>🛠️ Specialty: Tech savvy and creative solutions.</li>
-    </ul>
+<h2>🔍 Exploring Low-Code/No-Code and API Integrations:</h2>
+- Automated Workflow Magic.
+- API Integration Symphony.
+- DIY App Creation.
 
-    <h2>🌟 Why Follow Me?</h2>
-    <!-- Your content here... -->
+<h2> 🤳 Connect with me:</h2>
+<!-- Your connection links here -->
 
-    <h2>🔮 Tech Crystal Ball:</h2>
-    <!-- Your content here... -->
+<!--
+**belvin92/belvin92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-    <h2 class="project-title">🚀 Projects - Where Magic Happens:</h2>
-    <!-- Your projects list here... -->
-
-    <h3>🔍 Exploring Low-Code/No-Code and API Integrations:</h3>
-    <!-- Your sub-projects list here... -->
-
-    <h2 class="connect">🤝 Let's Connect:</h2>
-    <p>
-        LinkedIn: <a href="https://linkedin.com/in/belvin/">Belvin's Profile</a><br>
-        Email: <a href="mailto:belvin92@hotmail.com">belvin92@hotmail.com</a><br>
-        Website: <a href="https://belvin.io">belvin.io</a>
-    </p>
-
-</body>
-</html>
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
