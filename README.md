@@ -1,7 +1,7 @@
 <h1>Hi, I'm Belvin! <br/><a href="https://github.com/belvin92">Tech Wizard</a>, <a href="https://www.linkedin.com/in/belvin/">Cloud Wrangler</a>, <a href="https://www.youtube.com/c/joshmadakor">Tech Enthusiast</a></h1>
 
 
-    <h1 class="header">👋 Hey there! I'm Belvin Singh</h1>
+    <h1>👋 Hey there! I'm Belvin Singh</h1>
 
     <h2>🚀 Quick Facts:</h2>
     <ul>
