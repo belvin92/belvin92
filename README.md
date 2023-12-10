@@ -7,13 +7,21 @@
 
 <h2>👨‍💻 Projects:</h2>
 - <b>Azure Active Honeypot - Joshua:</b> Cybersecurity digital trap.
+<br>
 - <b>SIEM MacOS - Network Chuck:</b> Unraveling MacOS mysteries.
+<br>
 - <b>Pi-hole VPN Wireguard - Linode TechHut:</b> Online privacy fortress.
+<br>
 - <b>Nextcloud & Owncloud:</b> Personal cloud storage solutions.
+<br>
 - <b>Meme Generator - Flask Python:</b> Laughs turned into code.
+<br>
 - <b>Crypto Mining on RPi4:</b> Earning MYST tokens.
+<br>
 - <b>Docker Experiments:</b> Adventures in containerization.
+<br>
 - <b>Dark Web Hosting:</b> Exploring the unknown.
+<br>
 - <b>Live Chat via OnionShare:</b> Secure, anonymous communication.
 
 <h2>🔍 Exploring Low-Code/No-Code and API Integrations:</h2>
