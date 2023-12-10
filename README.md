@@ -1,6 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
+
+<body>
     <title>Belvin Singh's GitHub Page</title>
     <style>
         body { font-family: Arial, sans-serif; }
@@ -8,8 +7,7 @@
         .project-title { color: #336633; }
         .connect { color: #663333; }
     </style>
-</head>
-<body>
+
 
     <h1 class="header">👋 Hey there! I'm Belvin Singh</h1>
 
